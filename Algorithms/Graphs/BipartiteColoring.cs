@@ -85,7 +85,7 @@ namespace Algorithms.Graphs
 
 
         /// <summary>
-        /// Constructors helper function. Initializes some of the data memebers.
+        /// Constructors helper function. Initializes some of the data members.
         /// </summary>
         private void _initializeDataMembers(IGraph<TVertex> Graph)
         {
